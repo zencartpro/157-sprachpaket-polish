@@ -1,11 +1,11 @@
 <?php
 /**
  * Zen Cart German Specific (158 code in 157)
- * @copyright Copyright 2003-2023 Zen Cart Development Team
+ * @copyright Copyright 2003-2024 Zen Cart Development Team
  * Zen Cart German Version - www.zen-cart-pro.at
  * @copyright Portions Copyright 2003 osCommerce
  * @license https://www.zen-cart-pro.at/license/3_0.txt GNU General Public License V3.0
- * $Id: discount_coupon.php 2023-10-29 16:22:16Z webchills $
+ * $Id: discount_coupon.php 2024-08-16 10:22:16Z webchills $
  */
 
 define('NAVBAR_TITLE', 'Kupon rabatowy');
@@ -24,7 +24,7 @@ define('TEXT_COUPON_HELP_DESC', '<p><span class="bold">Czym jest Kupon Rabatowy:
 define('TEXT_COUPON_HELP_RESTRICT', '<p class="biggerText bold">Ograniczenia Kuponu Rabatowego</p>');
 define('TEXT_COUPON_HELP_CATEGORIES', '<p class="bold">Kategorie:</p>');
 define('TEXT_COUPON_HELP_PRODUCTS', '<p class="bold">Towary:</p>');
-define('TEXT_CAT_ALLOWED', (Dla towarów w tej kategorii możesz skorzystać z rabatu)');
+define('TEXT_CAT_ALLOWED', '(Dla towarów w tej kategorii możesz skorzystać z rabatu)');
 define('TEXT_CAT_DENIED', '(Rabat nieaktywny dla Kategorii)</b></font> z wyjątkiem:');
 define('TEXT_PROD_ALLOWED', '(Towar objęty rabatem)');
 define('TEXT_PROD_DENIED', '(Nieaktywny dla tego produktu)');

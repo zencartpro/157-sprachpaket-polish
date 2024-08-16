@@ -1,5 +1,7 @@
 ##### add polish definitions for multilanguage countries_names
 
+DELETE FROM `countries_name` WHERE `language_id` = 48;
+
 INSERT IGNORE INTO countries_name (countries_id, language_id, countries_name) VALUES
 (1, 48, 'Afghanistan'),
 (2, 48, 'Albania'),
