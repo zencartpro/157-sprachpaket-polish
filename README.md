@@ -1,5 +1,5 @@
 # 157-sprachpaket-polish
-Sprachpaket POLNISCH für Zen Cart 1.5.7h deutsch 
+Sprachpaket POLNISCH für Zen Cart 1.5.7i deutsch 
 
 Hinweis: 
 Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlich unter Releases herunterladen:
@@ -10,7 +10,7 @@ Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlic
 * Frontend von native speaker/Deepl übersetzt 
 
 * Dieses Sprachpaket stellt eine polnische Übersetzung (Übersetzunggrad 95%) für das Frontend der Grundversion bereit. 
-* Die Sprachdefinitionen sind vollständig für die deutsche Zen Cart Version 1.5.7h angepasst, so dass es auch mit PHP 8.2 keine Probleme geben sollte. 
+* Die Sprachdefinitionen sind vollständig für die deutsche Zen Cart Version 1.5.7i angepasst, so dass es auch mit PHP 8.2 oder 8.3 keine Probleme geben sollte. 
 * Dieses Sprachpaket geht davon aus, dass im Shop CSS Buttons verwendet werden und liefert keine polnischen Grafikbuttons mit. 
 
 * Da es seit Zen Cart 1.5.7 deutsch nicht mehr nötig ist, die Administration auf andere Sprachen umzuschalten (außer zum Bearbeiten von Define Pages unter Tools > Seiteneditor) stellt dieses Sprachpaket keine polnische Übersetzung für den Adminbereich bereit.
